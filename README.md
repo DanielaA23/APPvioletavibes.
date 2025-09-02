@@ -1,8 +1,7 @@
-# Nombre de la aplicación
-
+# APP voleta vibes
 Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
 
-Autor(es): Nombre del estudiante
+Autor(es): Daniela Amaya Clavijo
 
 ## Referencias
 
