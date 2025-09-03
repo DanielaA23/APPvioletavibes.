@@ -1,4 +1,4 @@
-# APP voleta vibes
+# APP violeta vibes
 APPVIOLETA es una aplicación móvil diseñada para facilitar la compra de ropa desde dispositivos Android. Permite a los usuarios visualizar prendas con sus respectivas imágenes, descripciones y precios, además de aplicar filtros por categoría, talla o estilo.
 
 Autor(es): Daniela Amaya Clavijo
